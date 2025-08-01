@@ -30,24 +30,25 @@ La animación se genera con matplotlib, mostrando paso a paso cómo se ordenan l
 
 1. **Primera Etapa del Codigo:**
    
+A si es como inicia la visualización de nuestros datos para que sean ordenados utilizando el quicksort
+
    ![Captura inicial](Capturinga.png)
    
-A si es como inicia la visualización de nuestros datos para que sean ordenados utilizando el quicksort 
-
 3. **Segunda Etapa del Codigo:**
-   
-   ![Captura Desarollo](Capturingo.png)
-   
+
 Y así es como se pone en ejecución el Metodo de ordenamiento de quicksort, como va buscando….
 1.	Elegir un pivote (normalmente el último elemento del subarreglo).
 2.	Reordena los elementos: pone a los menores que el pivote a la izquierda y los mayores a la derecha.
 3.	Repite recursivamente ese proceso en los subarreglos izquierdo y derecho.
+   
+   ![Captura Desarollo](Capturingo.png)
 
 3. **Resultado Final:**
+
+Pasó final y así es como nuestro arreglo, se encargó de posicionar todos los numeros de número menor al mayor, de izquierda a derecha manteniendo su jerarquía
  
    ![Captura Final](Capturaz.png)
    
-Pasó final y así es como nuestro arreglo, se encargó de posicionar todos los numeros de número menor al mayor, de izquierda a derecha manteniendo su jerarquía
 ---
 
 ## 📦 Requisitos
