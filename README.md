@@ -34,7 +34,7 @@ A si es como inicia la visualización de nuestros datos para que sean ordenados 
 
    ![Captura inicial](Capturinga.png)
    
-3. **Segunda Etapa del Codigo:**
+2. **Segunda Etapa del Codigo:**
 
 Y así es como se pone en ejecución el Metodo de ordenamiento de quicksort, como va buscando….
 1.	Elegir un pivote (normalmente el último elemento del subarreglo).
