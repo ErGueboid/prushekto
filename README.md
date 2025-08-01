@@ -10,12 +10,12 @@ Este es el tipo de ordenamiento con quicksort.
 - **Materia:** Estructura de Datos  
 - **Semestre:** 3er Semestre  
 
-## 📚 Datos del Estudiante
+## 📚 Integrantes del Equipo
 
-- **Nombre:** Gonzalez Flores Victor Daniel  
-- **Nombre:** Morales Guillen Hitzel Valeria Nahomi  
-- **Nombre:** Vigil Leon Carolina  
-- **Nombre:** Prieto Zapata Jorge de Jesus  
+- **21230614:** Gonzalez Flores Victor Daniel  
+- **22230670:** Morales Guillen Hitzel Valeria Nahomi  
+- **22230655:** Vigil Leon Carolina  
+- **21230568:** Prieto Zapata Jorge de Jesus  
 ---
 
 ## 📝 Descripción
