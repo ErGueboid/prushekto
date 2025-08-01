@@ -3,7 +3,12 @@
 
 Este es el tipo de ordenamiento con quicksort.
 
----
+## 📚 Datos de la Materia 
+
+- **Profesor:** Molina Gomez Kevin David  
+- **Unidad:** Unidad 5
+- **Materia:** Estructura de Datos  
+- **Semestre:** 3er Semestre  
 
 ## 📚 Datos del Estudiante
 
@@ -11,11 +16,6 @@ Este es el tipo de ordenamiento con quicksort.
 - **Nombre:** Morales Guillen Hitzel Valeria Nahomi  
 - **Nombre:** Vigil Leon Carolina  
 - **Nombre:** Prieto Zapata Jorge de Jesus  
-- **Materia:** Estructura de Datos  
-- **Profesor:** Molina Gomez Kevin David  
-- **Unidad:** Unidad 5  
-- **Semestre:** 3er Semestre
-
 ---
 
 ## 📝 Descripción
@@ -29,6 +29,7 @@ La animación se genera con matplotlib, mostrando paso a paso cómo se ordenan l
 ## 🚀 ¿Cómo funciona el codigo?
 
 1. **Primera Etapa del Codigo:**
+   
    ![Captura inicial](Capturinga.png)
 
 3. **Segunda Etapa del Codigo:**
