@@ -54,4 +54,4 @@ Pasó final y así es como nuestro arreglo, se encargó de posicionar todos los 
 ## 📦 Requisitos
 
 - Python 3.7+
-- Flask
+- matplotlib
