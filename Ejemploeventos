@@ -1,0 +1,14 @@
+import javax.swing.*;
+import java.awt.event.*;
+
+public class EjemploEventos {
+
+    public static void main(String[] args) {
+        JFrame ventana = new JFrame("Ejemplo de Eventos");
+        JButton boton = new JButton("Haz clic");
+
+        boton.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                JOptionPane.showMessageDialog(null, "Evento activado");
+            }
+        });
